@@ -2,7 +2,12 @@
 
 O BMSSP é uma alternativa eficiente ao Dijkstra para casos onde múltiplas fontes e um limite de distância são necessários. Ele mantém precisão local enquanto reduz custo computacional, sendo ideal para aplicações em redes grandes como mapas, redes sociais e infraestruturas de transporte.
 
-Dijkstra foi vencido na busca pelo caminho mais curto, em grafos esparsos
+## Areas de atuação
+BMSSP é eficiente quando múltiplas fontes e um limite de distância são necessários.
+Mantém precisão local, reduzindo custo computacional.
+Aplicações: mapas, redes sociais, transporte.
+
+Superando o algoritmo de Dijkstra em diversos casos
 
 Fonte do artigo : https://arxiv.org/pdf/2504.17033 
  
